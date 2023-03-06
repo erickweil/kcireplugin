@@ -1,0 +1,5 @@
+name: KcirePlugin
+main: br.erickweil.kcire.KcirePlugin
+version: 1.0
+api-version: 1.19
+commands:
