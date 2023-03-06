@@ -1,0 +1,13 @@
+database:
+    address: "localhost"
+    user: "root"
+    passw: ""
+    database: "kcireserver"
+kits:
+    nb:
+        delay: 60
+        items:
+            - 'BREAD 2'
+            - 'STICK 2'
+            - 'OAK_WOOD:3 3'
+            - 'WORKBENCH 1'

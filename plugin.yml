@@ -1,5 +1,15 @@
 name: KcirePlugin
-main: br.erickweil.kcire.KcirePlugin
+main: br.erickweil.spigot.kcire.KcirePlugin
 version: 1.0
 api-version: 1.19
 commands:
+    kit:
+        description: recebe um kit basico
+    tell:
+        description: mande uma mensagem privada a alguem
+    login:
+        description: faz login
+    register:
+        description: faz o registro
+    r:
+        description: responde
